@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Project-10-TrybeTunes/static/css/main.728fff24.css",
+    "main.js": "/Project-10-TrybeTunes/static/js/main.8c44d122.js",
+    "index.html": "/Project-10-TrybeTunes/index.html",
+    "main.728fff24.css.map": "/Project-10-TrybeTunes/static/css/main.728fff24.css.map",
+    "main.8c44d122.js.map": "/Project-10-TrybeTunes/static/js/main.8c44d122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.728fff24.css",
+    "static/js/main.8c44d122.js"
+  ]
+}
